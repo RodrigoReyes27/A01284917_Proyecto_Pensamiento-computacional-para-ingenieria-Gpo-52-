@@ -1,0 +1,14 @@
+Id: 1,Area: matematicas,Pregunta: 1 + 1 + 1,Opcion A: 3,Opcion B: 4,Opcion C: 5,Opcion D: 6,Respuesta: A
+Id: 2,Area: matematicas,Pregunta: 2+2,Opcion A: 1,Opcion B: 2,Opcion C: 3,Opcion D: 4,Respuesta: D
+Id: 3,Area: matematicas,Pregunta: 2+1,Opcion A: 1,Opcion B: 2,Opcion C: 3,Opcion D: 4,Respuesta: C
+Id: 4,Area: matematicas,Pregunta: 3+1,Opcion A: 4,Opcion B: 5,Opcion C: 6,Opcion D: 7,Respuesta: A
+Id: 5,Area: matematicas,Pregunta: 4+1,Opcion A: 4,Opcion B: 5,Opcion C: 6,Opcion D: 7,Respuesta: B
+Id: 6,Area: matematicas,Pregunta: 5+1,Opcion A: 4,Opcion B: 5,Opcion C: 6,Opcion D: 7,Respuesta: C
+Id: 7,Area: ciencias,Pregunta: fuente de energia de la celula,Opcion A: mitocondria,Opcion B: nucleo,Opcion C: nucleolus,Opcion D: ninguna,Respuesta: A
+Id: 8,Area: ciencias,Pregunta: elige el halogeno ,Opcion A: Pb,Opcion B: F,Opcion C: C,Opcion D: Mg,Respuesta: B
+Id: 9,Area: lectura,Pregunta: Algo le ocurrio al personaje de la historia la noche anterior. Que fue lo que le paso?,Opcion A: El mal tiempo habia estropeado la moto. ,Opcion B: El mal tiempo habia impedido salir al personaje. ,Opcion C: El personaje habia comprado una moto nueva.,Opcion D: El personaje habia tenido un accidente de moto,Respuesta: D
+Id: 10,Area: matematicas,Pregunta: 2 * 2,Opcion A: 4,Opcion B: 5,Opcion C: 6,Opcion D: 7,Respuesta: A
+Id: 11,Area: matematicas,Pregunta: 3 * 3,Opcion A: 3,Opcion B: 6,Opcion C: 9,Opcion D: 12,Respuesta: C
+Id: 12,Area: matematicas,Pregunta: 5 * 5,Opcion A: 15,Opcion B: 20,Opcion C: 25,Opcion D: 30,Respuesta: C
+Id: 13,Area: matematicas,Pregunta: 4 * 4,Opcion A: 8,Opcion B: 12,Opcion C: 16,Opcion D: 20,Respuesta: C
+Id: 14,Area: matematicas,Pregunta: 6 * 6,Opcion A: 30,Opcion B: 36,Opcion C: 42,Opcion D: 48,Respuesta: B
